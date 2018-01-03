@@ -1,0 +1,10 @@
+syntax: glob
+*.o
+*~
+*.swp
+build/*
+temp/*
+html/*
+latex/*
+apps/reorg/test/*
+tests/sdl_pa/sdl_pa
